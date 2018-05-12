@@ -1,0 +1,31 @@
+_repo: Pretty-Geraldine-the-New-York-Salesgirlor-Wedded-to-Her-Choice_45872
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45872-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex. McVeigh
+    - Miller, Mrs. Alex McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+description: ''
+gutenberg_issued: '2014-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Pretty Geraldine, the New York Salesgirl; or, Wedded to Her Choice
+url: http://www.gutenberg.org/ebooks/45872
